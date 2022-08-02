@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: '',
   github: 'Cathia1123',
-  linkedin: 'https://www.linkedin.cn/incareer/in/chuyuehu',
+  linkedin: 'chuyuehu',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
