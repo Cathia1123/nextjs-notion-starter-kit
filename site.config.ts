@@ -2,15 +2,15 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'fc0e3dc80ee54d1aac30cc74e6126153',
+  rootNotionPageId: '192ec191ce034809b1385a755da5c9fd',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Resume',
-  domain: 'https://www.notion.so/Resume-fc0e3dc80ee54d1aac30cc74e6126153',
+  name: 'Gibberish',
+  domain: 'https://www.notion.so/Gibberish-192ec191ce034809b1385a755da5c9fd',
   author: 'Cathia.H',
 
   // open graph metadata (optional)
@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: '',
   github: 'Cathia1123',
-  linkedin: '',
+  linkedin: 'https://www.linkedin.cn/incareer/in/chuyuehu',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
